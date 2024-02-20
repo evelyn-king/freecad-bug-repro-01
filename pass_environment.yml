@@ -1,0 +1,6 @@
+name: geometry_bug_pass
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - freecad==0.21.1

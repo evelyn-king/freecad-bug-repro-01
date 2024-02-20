@@ -1,0 +1,6 @@
+name: geometry_bug_fail
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - freecad
